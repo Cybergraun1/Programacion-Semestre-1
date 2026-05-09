@@ -1,0 +1,5 @@
+num1=int(12)
+num2=int(20)
+distancia=abs(num1-num2)
+distancia_2=(num1-num2)
+print(f'esta distancia es con abs {distancia_2} y esta es sin abs {distancia}')
